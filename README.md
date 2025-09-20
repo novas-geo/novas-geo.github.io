@@ -1,3 +1,4 @@
+![Novas · Geospatial](banner.png)
 # novas-geo.github.io
 ## 🗺️ Geospatial Learning Dashboard
 
