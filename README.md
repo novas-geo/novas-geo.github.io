@@ -23,5 +23,5 @@ Welcome to my interactive roadmap for mastering open-source geospatial tools and
 | 18–20 | Jan 13–31 | Final Project – EUDR | 🔴 | Validation, packaging, submission
 
 📘 [View my EUDR Compliance Guide](./EUDR_Compliance_Guide_EN.md)  
-📁 [Explore my GitHub Portfolio](https://github.com/norvis-geo)
+📁 [Explore my GitHub Portfolio](https://github.com/novass-geo)
 
