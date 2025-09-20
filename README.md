@@ -24,3 +24,4 @@ Welcome to my interactive roadmap for mastering open-source geospatial tools and
 
 📘 [View my EUDR Compliance Guide](./EUDR_Compliance_Guide_EN.md)  
 📁 [Explore my GitHub Portfolio](https://github.com/norvis-geo)
+![Novas · Geospatial](banner.png)
